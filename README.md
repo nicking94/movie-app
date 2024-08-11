@@ -14,7 +14,7 @@ Para instalar y ejecutar el proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/nicking94/Vitawallet-test
+   git clone https://github.com/nicking94/movie-app.git
    ```
 2. Instala las dependencias:
    ```bash
