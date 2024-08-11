@@ -8,7 +8,7 @@ function App() {
   const [search, setSearch] = useState("");
   const [filteredMovies, setFilteredMovies] = useState(movies);
   const [currentPage, setCurrentPage] = useState(1);
-  const moviesPerPage = 6;
+  const moviesPerPage = 8;
 
   const handleSearch = (text) => {
     setSearch(text);
